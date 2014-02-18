@@ -2,6 +2,57 @@
   "comments": [
     {
       "key": {
+        "uuid": "fade3982_1c8f7424",
+        "filename": "USBHostSwitcher/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-18T14:35:09Z",
+      "side": 1,
+      "message": "USB-host schakelen of USB-hostschakelaar",
+      "revId": "4d0a66b274b6eea64086155990f564d4e19ecd46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_fc93b04d",
+        "filename": "USBHostSwitcher/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-18T14:35:09Z",
+      "side": 1,
+      "message": "USB-hostschakelaar voor Nook HD/HD+",
+      "revId": "4d0a66b274b6eea64086155990f564d4e19ecd46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_5c99fc6d",
+        "filename": "USBHostSwitcher/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-18T14:35:09Z",
+      "side": 1,
+      "message": "USB-hoststatus forceren",
+      "revId": "4d0a66b274b6eea64086155990f564d4e19ecd46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fade3982_5ca57c02",
         "filename": "USBHostSwitcher/res/values-nl/cm_translations.xml",
         "patchSetId": 1
