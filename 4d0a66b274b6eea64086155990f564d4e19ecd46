@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "fade3982_5c6d7c03",
+        "filename": "USBHostSwitcher/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2014-02-18T22:20:01Z",
+      "side": 1,
+      "message": "+1 voor de laatste",
+      "parentUuid": "fade3982_1c8f7424",
+      "revId": "4d0a66b274b6eea64086155990f564d4e19ecd46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fade3982_fc93b04d",
         "filename": "USBHostSwitcher/res/values-nl/cm_translations.xml",
         "patchSetId": 1
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "fade3982_3c7238e6",
+        "filename": "USBHostSwitcher/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2014-02-18T22:20:01Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "fade3982_fc93b04d",
+      "revId": "4d0a66b274b6eea64086155990f564d4e19ecd46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fade3982_5c99fc6d",
         "filename": "USBHostSwitcher/res/values-nl/cm_translations.xml",
         "patchSetId": 1
@@ -47,6 +83,24 @@
       "writtenOn": "2014-02-18T14:35:09Z",
       "side": 1,
       "message": "USB-hoststatus forceren",
+      "revId": "4d0a66b274b6eea64086155990f564d4e19ecd46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_9c7704d4",
+        "filename": "USBHostSwitcher/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2014-02-18T22:20:01Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "fade3982_5c99fc6d",
       "revId": "4d0a66b274b6eea64086155990f564d4e19ecd46",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
