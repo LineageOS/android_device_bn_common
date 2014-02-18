@@ -34,6 +34,24 @@
       "revId": "4d0a66b274b6eea64086155990f564d4e19ecd46",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_9c96e492",
+        "filename": "USBHostSwitcher/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2014-02-18T11:14:38Z",
+      "side": 1,
+      "message": "Tja, sorry, dat zie ik dus niet.... Ik zie alleen usb_button, zie nergens toggle. Toggle is inderdaad schakelen. Moet ik meer bekijken dan wat ik hier op het scherm zie?",
+      "parentUuid": "fade3982_fc861064",
+      "revId": "4d0a66b274b6eea64086155990f564d4e19ecd46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
