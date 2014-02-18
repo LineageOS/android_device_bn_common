@@ -52,6 +52,24 @@
       "revId": "4d0a66b274b6eea64086155990f564d4e19ecd46",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_fced7026",
+        "filename": "USBHostSwitcher/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-02-18T11:29:22Z",
+      "side": 1,
+      "message": "Ja, de originele Engelse strings: https://github.com/CyanogenMod/android_device_bn_common/blob/cm-11.0/USBHostSwitcher/res/values/strings.xml",
+      "parentUuid": "fade3982_9c96e492",
+      "revId": "4d0a66b274b6eea64086155990f564d4e19ecd46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
