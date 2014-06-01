@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da0c15f0_75c16d80",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 179,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2014-06-01T22:30:41Z",
+      "side": 1,
+      "message": "TARGET_NO_SEPARATE_RECOVERY :\u003d true",
+      "revId": "5ab187c11853766d2b205e750d80efa4dd3a80ed",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
