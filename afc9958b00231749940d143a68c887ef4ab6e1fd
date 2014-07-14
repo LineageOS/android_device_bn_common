@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_b1cb301e",
+        "filename": "common.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 197,
+      "author": {
+        "id": 688
+      },
+      "writtenOn": "2014-07-14T13:54:26Z",
+      "side": 1,
+      "message": "hm...\ncan we wrap this into some sort of ifdef, or perhaps it\u0027s not worth it, as the file is small even when unused?",
+      "revId": "afc9958b00231749940d143a68c887ef4ab6e1fd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
